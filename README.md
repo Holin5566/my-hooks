@@ -1,6 +1,6 @@
 # Custom Hook
 ## useMultiInput
-[DEMO by code sandbox](https://codesandbox.io/s/usemultiinput-zn811o:756-762 "CodeSandbox")
+[DEMO by code sandbox](https://codesandbox.io/s/usemultiinput-zn811o "CodeSandbox")
 
 ## useLoading
 
